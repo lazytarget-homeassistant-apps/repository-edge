@@ -1,0 +1,7 @@
+---
+channel: edge
+apps:
+  grocy:
+    repository: lazytarget-homeassistant-addons/grocy
+    target: grocy
+    image: ghcr.io/lazytarget-homeassistant-addons/grocy/{arch}
