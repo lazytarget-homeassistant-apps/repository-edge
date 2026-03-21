@@ -73,4 +73,4 @@ schema:
   certfile: str
   keyfile: str
   grocy_ingress_user: str
-image: ghcr.io/lazytarget-homeassistant-addons/grocy/{arch}
+image: ghcr.io/lazytarget-homeassistant-apps/grocy/{arch}

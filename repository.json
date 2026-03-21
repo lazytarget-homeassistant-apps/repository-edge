@@ -1,5 +1,5 @@
 {
-  "name": "EDGE - Home Assistant Add-on repository of LazyTarget!",
-  "url": "https://github.com/lazytarget-homeassistant-addons/repository-edge",
-  "maintainer": "Peter Åslund <peter@peteraslund.me>"
+  "name": "LazyTarget's Home Assistant Apps - EDGE",
+  "url": "https://github.com/lazytarget-homeassistant-apps/repository-edge",
+  "maintainer": "LazyTarget <peter@peteraslund.me>"
 }

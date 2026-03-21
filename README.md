@@ -1,4 +1,4 @@
-# EDGE - Home Assistant Apps - LazyTarget Repository
+# LazyTarget's Home Assistant Apps - EDGE
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
