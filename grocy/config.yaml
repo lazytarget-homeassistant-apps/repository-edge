@@ -3,7 +3,7 @@ version: 4eb4e36
 slug: grocy
 description: ERP beyond your fridge! A groceries & household management solution for
   your home
-url: https://github.com/hassio-addons/addon-grocy
+url: https://github.com/lazytarget-homeassistant-addons/grocy
 ingress: true
 ingress_stream: true
 init: false
