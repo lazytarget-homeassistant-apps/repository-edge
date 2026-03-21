@@ -23,7 +23,7 @@ In the Home Assistant app store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/lazytarget-homeassistant-addons/repository-edge
+https://github.com/lazytarget-homeassistant-apps/repository-edge
 ```
 
 ## Apps provided by this repository
