@@ -11,6 +11,6 @@ permissions:
 
 jobs:
   workflows:
-    uses: lazytarget-homeassistant-apps/workflows/.github/workflows/repository-updater.yaml@main
+    uses: lazytarget-homeassistant-apps/workflows/.github/workflows/repository-updater.yaml@edge
     secrets:
       UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
