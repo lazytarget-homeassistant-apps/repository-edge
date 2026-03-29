@@ -1,4 +1,5 @@
 # Changelog since v0.24.3
+- Move printer feature toggles 
 - Group printer config into "printer" section 
 - Merge branch 'main' into feature/config-for-printer 
 - Update grocy/DOCS.md

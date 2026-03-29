@@ -183,8 +183,6 @@ or disabled:
 - `shoppinglist`
 - `stock`
 - `tasks`
-- `label_printer`
-- `thermal_printer`
 
 Set it `true` to enable it, `false` otherwise.
 
@@ -220,6 +218,7 @@ If no ingress user is set, the default login authentication is used.
 
 Allows posting to a webhook to print labels
 
+- `label_printer` Is used for enable or disable the feature in Grocy
 - `label_printer_webhook` The URI that Grocy will POST to when asked to print a label
 - `label_printer_run_server` Whether the webhook will be called server- or client-side
 - `label_printer_params` Additional parameters supplied to the webhook
@@ -232,6 +231,7 @@ the printer must support the ESC/POS protocol, see [ESC/POS protocol](https://gi
 
 **Note:** Only network printers are supported when running as a Home Assistant add-on. Direct USB/serial printer connections are not available in the containerized environment.
 
+- `thermal_printer` Is used for enable or disable the feature in Grocy
 - `tprinter_print_quantity_name` Set to false if you do not want to print the quantity names (related to the shopping list)
 - `tprinter_print_notes` Set to false if you do not want to print notes (related to the shopping list)
 - `tprinter_ip` IP of the network printer
