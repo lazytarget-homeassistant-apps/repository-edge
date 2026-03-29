@@ -1,5 +1,5 @@
 name: Grocy (EDGE)
-version: 4a96a90
+version: fa54e3e
 slug: grocy
 description: ERP beyond your fridge! A groceries & household management solution for
   your home
@@ -75,6 +75,7 @@ schema:
     stock_product_freezing: bool
     stock_product_opened_tracking: bool
     stock_count_opened_products_against_minimum_stock_amount: bool
+  printer:
     label_printer_webhook: str?
     label_printer_run_server: bool?
     label_printer_params: str?
