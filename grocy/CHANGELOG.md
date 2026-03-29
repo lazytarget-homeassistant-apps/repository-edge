@@ -1,5 +1,4 @@
-# Changelog since v0.24.2
-- Ensures s6-overlay scripts are executable (#8)
-- Use edge workflows
-- Run deploys for 'edge' and 'dev' branches as well
-- Configures consistent file formatting (#7)
+# Changelog since v0.24.3
+- Add support for changing GrocyCode type (#9) 
+- Merge branch 'main' into feature/config-for-grocycode-type 
+- Add support for changing GrocyCode type 
