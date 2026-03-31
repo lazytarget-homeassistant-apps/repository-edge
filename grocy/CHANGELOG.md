@@ -1,4 +1,5 @@
 # Changelog since v0.25.1
+- ⬆️ Update grocy/grocy to v4.6.0 (#11) 
 -  and lift rootfs folders to php85 
 - Attempt to resolve composer issue 
 - Removing obsolete php85-opcache 
