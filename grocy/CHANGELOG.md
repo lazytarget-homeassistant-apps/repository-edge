@@ -1,4 +1,18 @@
 # Changelog since v0.25.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#15)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [ghcr.io/hassio-addons/base](https://addons.community)
+([source](https://redirect.github.com/hassio-addons/addon-base)) | |
+patch | `20.0.1` → `20.0.4` |
+| [ghcr.io/hassio-addons/base](https://addons.community)
+([source](https://redirect.github.com/hassio-addons/addon-base)) | final
+| patch | `20.0.1` → `20.0.4` | 
 - ⬆️ Update PHP to v8.5.5-r1 (#16)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
