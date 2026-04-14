@@ -1,4 +1,5 @@
 # Changelog since v0.25.2
+- Adds Grocy add-on migration guide and script (#12) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#15)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
